@@ -32,6 +32,12 @@ $ pip install scikit-learn
 
 Open "main.ipynb".
 
+## Exemples
+
+![Exemple 1 : French Male Wonderkids](outputs/Exemple_1.png)
+
+![Exemple 2 : "Old but still good" Players](outputs/Exemple_2.png)
+
 ## Contact
 
 For questions or comments, please contact [Kevin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
